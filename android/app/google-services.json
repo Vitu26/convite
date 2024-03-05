@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164409126088",
+    "project_id": "heloconvite-c3684",
+    "storage_bucket": "heloconvite-c3684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164409126088:android:f16d315fdec301860289fd",
+        "android_client_info": {
+          "package_name": "com.example.helo_convite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYd9xfEHI_7upIIl5MYXkXcZ5Y0AN5kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
